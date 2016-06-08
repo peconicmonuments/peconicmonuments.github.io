@@ -307,7 +307,7 @@ pre code.hljs {
     float: right;
     margin: 0;
     font-size: 1.5em;
-    padding-top: 0.5em; }
+    padding-top: 0.2em; }
     @media screen and (min-width: 768px) {
       .navigation .navigation-menu-button {
         display: none; } }
@@ -326,7 +326,7 @@ pre code.hljs {
       display: table; }
   .navigation .logo {
     float: left;
-    height: 4em; }
+     }
     @media screen and (min-width: 768px) {
       .navigation .logo {
         padding-left: 16px; } }
@@ -358,15 +358,15 @@ pre code.hljs {
     .navigation ul.navigation-menu.show {
       display: block; }
   .navigation ul li.nav-link {
+    width: 100%;
     display: block;
     text-align: right;
-    width: 100%;
     padding: 0.25em 0; }
     @media screen and (min-width: 768px) {
       .navigation ul li.nav-link {
         background: transparent;
-        display: inline;
         text-decoration: none;
+        display: inline;
         width: auto; } }
   .navigation li.nav-link a {
     display: inline-block; }

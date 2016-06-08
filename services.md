@@ -3,9 +3,7 @@ layout: page
 title: Services
 ---
 
-Your Full Service Memorial Shop
-
-From A Marker To A Mausoleum
+### From A Marker To A Mausoleum - Your Full Service Memorial Shop
 
 At George Hill Moore Peconic Monument Works we take pride in offering
 our customers help through a possibly difficult and painful time of
@@ -32,20 +30,20 @@ Some of the services and products we offer are listed below.
    that we can help you with the need of matching an existing family
    marker at the cemetery plot, or in designing a beautiful memorial
    that will honor and commemorate the life of a loved one forever.
- * [25]Bronze plaques - Sometimes plaques are made to be placed at a
+ * Bronze plaques - Sometimes plaques are made to be placed at a
    memorial park or planted tree, or sometimes they are set on an
    existing native stone or boulder.  We offer many different ideas
    and there are many different sizes of bronze plaques to choose
    from.
- * [26]Mausoleums
- * [27]Granite Cemetary Benches
- * [28]Granite Vases
- * [29]Cemetery Corner Posts
- * [30]Inscription lettering (Names and/or years added to an existing
+ * Mausoleums
+ * Granite Cemetary Benches
+ * Granite Vases
+ * Cemetery Corner Posts
+ * Inscription lettering (Names and/or years added to an existing
    monument, without removing the monument or disturbing the grave.)
- * [31]Cemetery memorial cleanings
- * [32]Repair work done on existing memorials on your family plot
- * [33]Porcelain photos for memorials
+ * Cemetery memorial cleanings
+ * Repair work done on existing memorials on your family plot
+ * Porcelain photos for memorials
 
 Our service area: Eastern Long Island, NY,Mattituck, Peconic,
 Southhold, Jamesport, Laurel, Hampton Bays, Sag Harbor, Quogue,
@@ -55,13 +53,30 @@ Lindenhurst, Melville, Smithtown, Centereach, Kings Park, Hicksville,
 Levittown, Huntington, Commack and everywhere in between.
 
 
+## Bronze Plaques
+
+All bronze plaques are custom cast to size, design, and lettering
+requests.
+
+
+
+
+## Cemetery Corner Posts
+
+Corner posts can be lettered with the family initial(s) or with a
+design. They mark the four corners of a cemetery plot and can be
+installed flush with the ground or cemetery permitting, above ground.
+
+
+
+
 ## Pet Memorials
 
 Having a memorial made for your pet can be a special way to commemorate
 their life and valued companionship. If you are interested in a
 monument for your pet, we would love to work with you to design a
 memorial that best depicts your vision and honors their memory.
-[TROY.jpg]
+
 
 Below are some cemeteries in which we frequently do work. Please know
 we would welcome the chance to speak with you about a pet memorial

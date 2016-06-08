@@ -1,6 +1,14 @@
 ---
 layout: page
 ---
+
+<header class="post-header">
+<h1 class="post-title"> Testimonials </h1>
+</header>
+
+{% include page_divider.html %}
+
+
 If you would like to see what our customers say about us, read below!
 This page is dedicated to sharing the valued feedback of the familiies
 that choose to bless us with the opportunity to serve them. If you

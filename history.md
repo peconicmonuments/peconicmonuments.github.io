@@ -1,7 +1,12 @@
 ---
 layout: page
 ---
-History
+
+<header class="post-header">
+<h1 class="post-title"> History </h1>
+</header>
+
+{% include page_divider.html %}
 
 George Hill Moore Peconic Monument Works was started in 1842 as Frank
 H. Hill and Brother.  Frank Hill and his brother, Lester, ran a marble
@@ -13,8 +18,6 @@ Frank and Lester's sister's son, George Hill Moore, worked for his
 uncles from his youth. George took over the business from his uncles.
 Later his two sons, Robert and Russell Moore, worked with their father,
 and eventually took over the business from their dad, George Moore.
-[history-photo.jpg]
-[PICTURE_FOR_WEBSITE.jpg]
 
 Russ and Bob Moore sold it to John Warner in August 1982. John and his
 wife, Shirley Warner ran the business until January 1989, at which time
@@ -28,3 +31,4 @@ as well.
 Whew, if you can follow that history, we give you a lot of credit! We
 are honored and privileged to be carrying on one of the oldest
 businesses on Long Island.
+

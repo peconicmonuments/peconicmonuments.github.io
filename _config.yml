@@ -9,10 +9,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://peconicmonuments.github.io"
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
+permalink: pretty
 
 # Build settings
-exclude: ["/vendor/"]
 markdown: kramdown
+exclude: ["/vendor/"]
 inter_post_navigation: false
 highlightjs_theme: "monokai_sublime"
 # ga_tracking_id: "UA-XXXX-1" # Google analytics

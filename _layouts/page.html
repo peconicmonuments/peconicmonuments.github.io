@@ -3,17 +3,20 @@ layout: default
 ---
 
 <div class="wrapper">
-<div class="page">
+  <div class="page">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+    {% if page.title %}
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
 
-  {% include page_divider.html %}
+    {% include page_divider.html %}
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    {% endif %}
 
-</div>
+    <article class="post-content">
+      {{ content }}
+    </article>
+
+  </div>
 </div>
