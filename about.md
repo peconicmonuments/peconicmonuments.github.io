@@ -4,14 +4,39 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+[moores-monuments-shop.jpg]
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hollis Warner, owner and memorialist of Peconic Monument Works, has
+been assisting families in designing their memorials for over 25 years
+here on the east end of Long Island. Born and raised in Riverhead,
+Hollis is a well respected member of the community who commits himself
+to being an honorable business man who operates with integrity. His
+vast knowledge of stonework along with his excellent relationships with
+cemetery personnel serve to encourage families that they are in the
+best of hands.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+John Warner, Hollis' son, has an incredible attention to detail and a
+commitment to quality that is second to none.  His excellent listening
+ear paired with his creative design abilities make it so that he is
+able to come alongside famliies and help bring their vision to life.
+When it comes to installing memorials and repairing damaged memorials,
+John's experience in stonework and antique restoration contribute to
+his ability to execute both with excellence.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Ashley Warner, John's wife, adopted Paula's dedication to increasing
+the use of technology as a means of better communicating with the
+families. Ashley's love for people and her desire to encourage the
+hearts of those who are hurting drive her to be the best at customer
+service. Her priority is to work with families closely and to help walk
+them through the process from start to finish, and makes herself
+available to answer any questions in between!
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Because we want to cater to the varying needs of the families who come
+to us, we like to let people know that we can communicate through mail,
+via email and fax, over the phone, or in person. In some cases family
+members are spread throughout the United States or even the world, and
+it would be our pleasure to serve you through whichever mode of
+communication works best for you, without sacraficing our commitment to
+customer service.
+
+[mom_and_dad.jpg]
