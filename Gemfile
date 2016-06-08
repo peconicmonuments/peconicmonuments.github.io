@@ -1,7 +1,6 @@
-source 'https://rubygems.org'
+# A sample Gemfile
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'sass'
-gem 'compass'
-gem 'coffee-script'
-gem 'foreman'
+gem "jekyll", "~>2.5"
+gem "jekyll-archives", "~>2.0"
+gem "jekyll-sitemap", "~>0.8"
