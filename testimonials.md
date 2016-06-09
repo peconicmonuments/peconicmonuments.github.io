@@ -1,13 +1,8 @@
 ---
 layout: page
+title: Testimonials
+main_nav: false
 ---
-
-<header class="post-header">
-<h1 class="post-title"> Testimonials </h1>
-</header>
-
-{% include page_divider.html %}
-
 
 If you would like to see what our customers say about us, read below!
 This page is dedicated to sharing the valued feedback of the familiies
@@ -15,6 +10,8 @@ that choose to bless us with the opportunity to serve them. If you
 would like to add a testimonial, please email us at
 info@peconicmonumentworks.com to have your words featured on our
 website.
+
+{% include page_divider.html %}
 
 Dear Mr. and Mrs. Warner,
 
@@ -26,11 +23,15 @@ alone. Thanks again,
 
 H. Lumbard, New Jersey
 
+{% include page_divider.html %}
+
 Dear Hollis,
 
 Thank you from the bottom of my heart for your kindness, caring and
 professionalism. This is the second time I have come to you, and again
 you handled everything beautifully.
+
+{% include page_divider.html %}
 
 Dear Hollis,
 
@@ -38,6 +39,8 @@ Thank you once again for all the great restoration work you have done
 for us. You are famous!
 
 M. Van Lith, Brookhaven Hamlet New York
+
+{% include page_divider.html %}
 
 Dear Mr. and Mrs. Warner,
 
@@ -47,6 +50,8 @@ time and your professionalism and compassion shown through with every
 decision.
 
 S. Kajawski
+
+{% include page_divider.html %}
 
 Dear Hollis,
 
@@ -63,6 +68,8 @@ appreciative. God bless you.
 
 C. Sudler
 
+{% include page_divider.html %}
+
 Dear Hollis, Paula, John and Ashley,
 
 Thank you for your guidance, service and patience during our time of
@@ -70,6 +77,8 @@ grief. We are very pleased with the headstone and it is a befitting
 memorial.
 
 P. Harrison, Arizona
+
+{% include page_divider.html %}
 
 Dear Hollis,
 
@@ -83,6 +92,8 @@ Thank you so much again for everything,
 
 K. Caffrey
 
+{% include page_divider.html %}
+
 I want to express my sincere gratitude for the wonderful monument you
 created for my mother.  My husband and I were able to see it yesterday
 and are very pleased with the results.  You were truly very
@@ -93,10 +104,14 @@ with you.
 
 V. and K. Liogrande. Miller Place, New York
 
+{% include page_divider.html %}
+
 Just a note to tell you that your warmth and efficiency has made a
 difficult procedure easier to bear.  Thank you very much,
 
 Gene
+
+{% include page_divider.html %}
 
 Dear Ashley,
 

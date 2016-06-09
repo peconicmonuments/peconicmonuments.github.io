@@ -44,7 +44,9 @@ cemeteries where we have worked.
 - Saint Mary's Episcopal Cemetery
 - Shelter Island Cemetery
 - Our Lady of the Isle Cemetery
-- SOUTH FORK
+
+## SOUTH FORK
+
 - Cedar Lawn Cemetery (East Hampton)
 - Eastport Cemetery
 - East Quogue Cemetery (aka Oakwood Cemetery)

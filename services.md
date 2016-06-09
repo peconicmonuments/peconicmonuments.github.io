@@ -194,11 +194,9 @@ Below are some cemeteries in which we frequently do work. Please know
 we would welcome the chance to speak with you about a pet memorial
 wherever the final resting place for your pet may be.
 
--Bideawee (Wantagh)
-
--Bideawee (Westhampton)
-
--Regency Forest (Middle Island)
+- Bideawee (Wantagh)
+- Bideawee (Westhampton)
+- Regency Forest (Middle Island)
 
 
 
