@@ -3,7 +3,7 @@ layout: page
 title: Services
 ---
 
-## From A Marker To A Mausoleum - Your Full Service Memorial Shop
+#### *From A Marker To A Mausoleum - Your Full Service Memorial Shop*
 
 At George Hill Moore Peconic Monument Works we take pride in offering
 our customers help through a possibly difficult and painful time of
@@ -12,61 +12,42 @@ the families' wishes and needs, and patiently work with the family to
 help guide them through the many decisions in choosing a cemetery
 monument.
 
-Most people purchase a memorial once, or perhaps twice in a lifetime.
-Because such purchases are made infrequently, it is understandable
-difficult for a person to be thoroughly familiar with the main factors
-that influence the quality and value of memorials.  The professional
-counsel offered by Peconic Monument Works will enable you to make your
-selection with full confidence.
+Most people purchase a memorial once, or perhaps twice in a lifetime. Because
+such purchases are made infrequently, it is understandable difficult for a
+person to be thoroughly familiar with the main factors that influence the
+quality and value of memorials.  The professional counsel offered by Peconic
+Monument Works will enable you to make your selection with full confidence.
 
-Peconic Monument Works can help you choose a memorial that remembers
-and honors your loved one.  The price of the memorial depends upon the
-material used, its color, shape, size, design, lettering, and
-personalization.
+Peconic Monument Works can help you choose a memorial that remembers and honors
+your loved one.  The price of the memorial depends upon the material used, its
+color, shape, size, design, lettering, and personalization. Some of the
+services and products we offer are listed below:
 
-Some of the services and products we offer are listed below.
+* [Memorials](#memorials)
+* [Bronze Plaques](#bronze-plaques)
+* [Mausoleums](#mausoleums)
+* [Granite Cemetary Benches](#granite-cemetary-benches)
+* [Granite Vases](#granite-vases)
+* [Cemetery Corner Posts](#cemetery-corner-posts)
+* [Inscription Lettering](#inscription-lettering)
+* [Cemetery memorial cleanings](#cemetery-memorial-cleanings)
+* [Memorial repairs](#memorial-repairs)
+* [Porcelain photos](#porcelain-photos)
 
- * Memorials- Our motto is "From a Marker to a Mausoleum", meaning
-   that we can help you with the need of matching an existing family
-   marker at the cemetery plot, or in designing a beautiful memorial
-   that will honor and commemorate the life of a loved one forever.
- * Bronze plaques - Sometimes plaques are made to be placed at a
-   memorial park or planted tree, or sometimes they are set on an
-   existing native stone or boulder.  We offer many different ideas
-   and there are many different sizes of bronze plaques to choose
-   from.
- * Mausoleums
- * Granite Cemetary Benches
- * Granite Vases
- * Cemetery Corner Posts
- * Inscription lettering (Names and/or years added to an existing
-   monument, without removing the monument or disturbing the grave.)
- * Cemetery memorial cleanings
- * Repair work done on existing memorials on your family plot
- * Porcelain photos for memorials
-
-Our service area: Eastern Long Island, NY,Mattituck, Peconic,
-Southhold, Jamesport, Laurel, Hampton Bays, Sag Harbor, Quogue,
-Northwest Harbor, Riverside, Manorville, East Northport, Hauppauge,
-Brentwood, Rockypoint, Babylon, Islip, Bellport, Deer Park, Massapequa,
-Lindenhurst, Melville, Smithtown, Centereach, Kings Park, Hicksville,
-Levittown, Huntington, Commack and everywhere in between.
-
-
-## Bronze Plaques
-
-All bronze plaques are custom cast to size, design, and lettering
-requests.
-
-
-
-## Civic Memorials
-
-A befitting bronze memorial made to honor Brookhaven veterans.
-
+**Our service area:** Eastern Long Island, NY, Mattituck, Peconic, Southhold,
+Jamesport, Laurel, Hampton Bays, Sag Harbor, Quogue, Northwest Harbor,
+Riverside, Manorville, East Northport, Hauppauge, Brentwood, Rockypoint,
+Babylon, Islip, Bellport, Deer Park, Massapequa, Lindenhurst, Melville,
+Smithtown, Centereach, Kings Park, Hicksville, Levittown, Huntington, Commack
+and everywhere in between.
 
 
 ## Memorials
+
+Our motto is "From a Marker to a Mausoleum", meaning that we can help you with
+the need of matching an existing family marker at the cemetery plot, or in
+designing a beautiful memorial that will honor and commemorate the life of a
+loved one forever.
 
 At Peconic Monument Works, we work with families to bring their
 memorial vision to life.  We offer several different colors of
@@ -85,6 +66,19 @@ this time of need and to make this process as easy and encouraging as
 possible. We promise to provide attentive, caring service at a fair
 price. Nationwide shipping is available.
 
+
+## Bronze Plaques
+
+Sometimes plaques are made to be placed at a memorial park or planted tree, or
+sometimes they are set on an existing native stone or boulder.  We offer many
+different ideas and there are many different sizes of bronze plaques to choose
+from. All bronze plaques are custom cast to size, design, and lettering
+requests.
+
+
+## Civic Memorials
+
+A befitting bronze memorial made to honor Brookhaven veterans.
 
 
 ## Granite Vases
@@ -139,7 +133,10 @@ Granite benches can also be carved or lettered to commemorate
 individuals or donors.
 
 
-## Inscription lettering
+## Inscription Lettering
+
+*(Names and/or years added to an existing monument, without removing the
+monument or disturbing the grave.)*
 
 If you already have a monument or marker on your plot, and just need to
 add a name or date for a loved one who has passed, we will add these
