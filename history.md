@@ -1,12 +1,8 @@
 ---
 layout: page
+title: History
+main_nav: false
 ---
-
-<header class="post-header">
-<h1 class="post-title"> History </h1>
-</header>
-
-{% include page_divider.html %}
 
 George Hill Moore Peconic Monument Works was started in 1842 as Frank
 H. Hill and Brother.  Frank Hill and his brother, Lester, ran a marble

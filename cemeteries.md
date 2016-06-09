@@ -1,12 +1,8 @@
 ---
 layout: page
+title: Cemeteries
+main_nav: false
 ---
-
-<header class="post-header">
-<h1 class="post-title"> Cemeteries </h1>
-</header>
-
-{% include page_divider.html %}
 
 Although we specialize in working in cemeteries predominantly located
 on the East end of Long Island, please feel free to reach out to us
