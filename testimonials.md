@@ -4,14 +4,15 @@ title: Testimonials
 main_nav: false
 ---
 
-If you would like to see what our customers say about us, read below!
-This page is dedicated to sharing the valued feedback of the familiies
-that choose to bless us with the opportunity to serve them. If you
-would like to add a testimonial, please email us at
-info@peconicmonumentworks.com to have your words featured on our
-website.
+If you would like to see what our customers say about us, read below! This page
+is dedicated to sharing the valued feedback of the families that choose to
+bless us with the opportunity to serve them.
 
-{% include page_divider.html %}
+If you would like to add a testimonial, please email us at
+<a href="mailto:{{ site.email }}"> {{ site.email }} </a> to have your words
+featured on our website.
+
+### Customer Testimonials
 
 Dear Mr. and Mrs. Warner,
 
@@ -61,7 +62,7 @@ New York during a recent trip and  had a chance to go by Rothco and see
 the garden where the stone was placed.  It bought me to tears; it was
 perfect and brought a sense of closure for me.  I also thank you for
 your patience and accommodating manner throughout this whole process.
-There were so many times I felt like I couldn't't make a decision but
+There were so many times I felt like I couldn't make a decision but
 your guidance in the process bought just the result I desired.  Again,
 thank you for the care you put forth on my behalf, I am greatly
 appreciative. God bless you.

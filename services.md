@@ -26,21 +26,21 @@ services and products we offer are listed below:
 * [Memorials](#memorials)
 * [Bronze Plaques](#bronze-plaques)
 * [Mausoleums](#mausoleums)
-* [Granite Cemetary Benches](#granite-cemetary-benches)
+* [Granite Cemetery Benches](#granite-cemetery-benches)
 * [Granite Vases](#granite-vases)
 * [Cemetery Corner Posts](#cemetery-corner-posts)
 * [Inscription Lettering](#inscription-lettering)
-* [Cemetery memorial cleanings](#cemetery-memorial-cleanings)
-* [Memorial repairs](#memorial-repairs)
-* [Porcelain photos](#porcelain-photos)
+* [Memorial Cleanings](#cleaning-services)
+* [Memorial Repairs](#memorial-repairs)
+* [Porcelain Photos](#porcelain-photos)
+* [Pet Memorials](#pet-memorials)
 
 **Our service area:** Eastern Long Island, NY, Mattituck, Peconic, Southhold,
 Jamesport, Laurel, Hampton Bays, Sag Harbor, Quogue, Northwest Harbor,
 Riverside, Manorville, East Northport, Hauppauge, Brentwood, Rockypoint,
 Babylon, Islip, Bellport, Deer Park, Massapequa, Lindenhurst, Melville,
 Smithtown, Centereach, Kings Park, Hicksville, Levittown, Huntington, Commack
-and everywhere in between.
-
+and everywhere in between. Please see our [full cemetery list](/cemeteries).
 
 ## Memorials
 
@@ -128,7 +128,7 @@ installed flush with the ground or cemetery permitting, above ground.
 ## Granite Cemetery Benches
 
 Granite benches can be a nice enhancement to your loved one's plot. In
-some cases, a granite bench can even serve as the permanant monument.
+some cases, a granite bench can even serve as the permanent monument.
 Granite benches can also be carved or lettered to commemorate
 individuals or donors.
 
@@ -172,12 +172,17 @@ If you or your cemetery has memorials that have been damaged, we offer
 repair services to restore the stone. Below are examples of some of the
 repairs we offer;
 
- * Foundation repair/leveling for leaning stones.
- * Lifting and Re-setting knocked over stones.
- * Installation of concrete foundations.
- * Removal and Replacement of seal between pieces.
- * Replacement bases and new bases.
+* Foundation repair/leveling for leaning stones.
+* Lifting and Re-setting knocked over stones.
+* Installation of concrete foundations.
+* Removal and Replacement of seal between pieces.
+* Replacement bases and new bases.
 
+
+
+## Porcelain photos
+
+Porcelain photos add another layer of personal touch to the memorial.
 
 
 ## Pet Memorials
@@ -195,8 +200,3 @@ wherever the final resting place for your pet may be.
 - Bideawee (Westhampton)
 - Regency Forest (Middle Island)
 
-
-
-## Porcelain photos
-
-Porcelain photos add another layer of personal touch to the memorial.

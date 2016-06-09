@@ -4,11 +4,11 @@ title: Cemeteries
 main_nav: false
 ---
 
-Although we specialize in working in cemeteries predominantly located
-on the East end of Long Island, please feel free to reach out to us
-regarding work in cemeteries in other locations. We would welcome the
-chance to speak with you about your memorial needs wherever the final
-resting place of your loved one may be. Below is a list of some of the
+Although we specialize in working in cemeteries predominantly located on the
+East end of Long Island, please feel free to <a href="mailto:{{ site.email }}">
+reach out </a> to us regarding work in cemeteries in other locations. We would
+welcome the chance to speak with you about your memorial needs wherever the
+final resting place of your loved one may be. Below is a list of some of the
 cemeteries where we have worked.
 
 ## NORTH FORK
