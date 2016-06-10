@@ -12,7 +12,8 @@ If you would like to add a testimonial, please email us at
 <a href="mailto:{{ site.email }}"> {{ site.email }} </a> to have your words
 featured on our website.
 
-### Customer Testimonials
+<hr>
+
 
 Dear Mr. and Mrs. Warner,
 
@@ -24,7 +25,8 @@ alone. Thanks again,
 
 H. Lumbard, New Jersey
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Hollis,
 
@@ -32,7 +34,8 @@ Thank you from the bottom of my heart for your kindness, caring and
 professionalism. This is the second time I have come to you, and again
 you handled everything beautifully.
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Hollis,
 
@@ -41,7 +44,8 @@ for us. You are famous!
 
 M. Van Lith, Brookhaven Hamlet New York
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Mr. and Mrs. Warner,
 
@@ -52,7 +56,8 @@ decision.
 
 S. Kajawski
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Hollis,
 
@@ -69,7 +74,8 @@ appreciative. God bless you.
 
 C. Sudler
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Hollis, Paula, John and Ashley,
 
@@ -79,7 +85,8 @@ memorial.
 
 P. Harrison, Arizona
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Hollis,
 
@@ -93,7 +100,8 @@ Thank you so much again for everything,
 
 K. Caffrey
 
-{% include page_divider.html %}
+<hr>
+
 
 I want to express my sincere gratitude for the wonderful monument you
 created for my mother.  My husband and I were able to see it yesterday
@@ -105,14 +113,16 @@ with you.
 
 V. and K. Liogrande. Miller Place, New York
 
-{% include page_divider.html %}
+<hr>
+
 
 Just a note to tell you that your warmth and efficiency has made a
 difficult procedure easier to bear.  Thank you very much,
 
 Gene
 
-{% include page_divider.html %}
+<hr>
+
 
 Dear Ashley,
 

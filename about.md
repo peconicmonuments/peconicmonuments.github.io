@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## [Cemeteries](/cemeteries) -- [History](/history) -- [Testimonials](/testimonials) -- [Contact](/contact)
+### [News](/news) -- [Cemeteries](/cemeteries) -- [History](/history) -- [Testimonials](/testimonials)
 
 Hollis Warner, owner and memorialist of Peconic Monument Works, has
 been assisting families in designing their memorials for over 25 years

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News
+main_nav: false
 ---
 
 

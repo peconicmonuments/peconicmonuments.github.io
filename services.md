@@ -12,28 +12,22 @@ the families' wishes and needs, and patiently work with the family to
 help guide them through the many decisions in choosing a cemetery
 monument.
 
+### [Memorials](#memorials) -- [Bronze Plaques](#bronze-plaques) -- [Mausoleums](#mausoleums)
+
+### [Cemetery Benches](#granite-cemetery-benches) -- [Granite Vases](#granite-vases) -- [Corner Posts](#cemetery-corner-posts)
+
+### [Memorial Cleanings](#cleaning-services) -- [Memorial Repairs](#memorial-repairs) -- [Pet Memorials](#pet-memorials)
+
+### [Porcelain Photos](#porcelain-photos) -- [Inscription Lettering](#inscription-lettering)
+
 Most people purchase a memorial once, or perhaps twice in a lifetime. Because
 such purchases are made infrequently, it is understandable difficult for a
 person to be thoroughly familiar with the main factors that influence the
 quality and value of memorials.  The professional counsel offered by Peconic
 Monument Works will enable you to make your selection with full confidence.
-
 Peconic Monument Works can help you choose a memorial that remembers and honors
 your loved one.  The price of the memorial depends upon the material used, its
-color, shape, size, design, lettering, and personalization. Some of the
-services and products we offer are listed below:
-
-* [Memorials](#memorials)
-* [Bronze Plaques](#bronze-plaques)
-* [Mausoleums](#mausoleums)
-* [Granite Cemetery Benches](#granite-cemetery-benches)
-* [Granite Vases](#granite-vases)
-* [Cemetery Corner Posts](#cemetery-corner-posts)
-* [Inscription Lettering](#inscription-lettering)
-* [Memorial Cleanings](#cleaning-services)
-* [Memorial Repairs](#memorial-repairs)
-* [Porcelain Photos](#porcelain-photos)
-* [Pet Memorials](#pet-memorials)
+color, shape, size, design, lettering, and personalization.
 
 **Our service area:** Eastern Long Island, NY, Mattituck, Peconic, Southhold,
 Jamesport, Laurel, Hampton Bays, Sag Harbor, Quogue, Northwest Harbor,
