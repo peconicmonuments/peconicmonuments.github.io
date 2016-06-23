@@ -3,7 +3,13 @@ layout: page
 title: Services
 ---
 
-#### *From A Marker To A Mausoleum - Your Full Service Memorial Shop*
+### [Memorials](#memorials) -- [Bronze Plaques](#bronze-plaques) -- [Mausoleums](#mausoleums)
+
+### [Cemetery Benches](#granite-cemetery-benches) -- [Granite Vases](#granite-vases) -- [Corner Posts](#cemetery-corner-posts)
+
+### [Memorial Cleanings](#cleaning-services) -- [Memorial Repairs](#memorial-repairs)
+
+### [Porcelain Photos](#porcelain-photos) -- [Inscriptions](#inscription-lettering) -- [Pet Memorials](#pet-memorials)
 
 At George Hill Moore Peconic Monument Works we take pride in offering
 our customers help through a possibly difficult and painful time of
@@ -11,14 +17,6 @@ dealing with the loss of a loved one.  The Warners remain sensitive to
 the families' wishes and needs, and patiently work with the family to
 help guide them through the many decisions in choosing a cemetery
 monument.
-
-### [Memorials](#memorials) -- [Bronze Plaques](#bronze-plaques) -- [Mausoleums](#mausoleums)
-
-### [Cemetery Benches](#granite-cemetery-benches) -- [Granite Vases](#granite-vases) -- [Corner Posts](#cemetery-corner-posts)
-
-### [Memorial Cleanings](#cleaning-services) -- [Memorial Repairs](#memorial-repairs) -- [Pet Memorials](#pet-memorials)
-
-### [Porcelain Photos](#porcelain-photos) -- [Inscription Lettering](#inscription-lettering)
 
 Most people purchase a memorial once, or perhaps twice in a lifetime. Because
 such purchases are made infrequently, it is understandable difficult for a
