@@ -7,9 +7,9 @@ title: Services
 
 ### [Cemetery Benches](#granite-cemetery-benches) -- [Granite Vases](#granite-vases) -- [Corner Posts](#cemetery-corner-posts)
 
-### [Memorial Cleanings](#cleaning-services) -- [Memorial Repairs](#memorial-repairs)
-
 ### [Porcelain Photos](#porcelain-photos) -- [Inscriptions](#inscription-lettering) -- [Pet Memorials](#pet-memorials)
+
+### [Memorial Cleanings](#cleaning-services) -- [Memorial Repairs](#memorial-repairs)
 
 At George Hill Moore Peconic Monument Works we take pride in offering
 our customers help through a possibly difficult and painful time of
