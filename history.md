@@ -4,8 +4,6 @@ title: History
 main_nav: false
 ---
 
-![Original Building](/assets/oldstore.jpg)
-
 George Hill Moore Peconic Monument Works was started in 1842 as Frank
 H. Hill and Brother.  Frank Hill and his brother, Lester, ran a marble
 and granite works business in a rambling wood structure at the corner
@@ -17,7 +15,7 @@ uncles from his youth. George took over the business from his uncles.
 Later his two sons, Robert and Russell Moore, worked with their father,
 and eventually took over the business from their dad, George Moore.
 
-![Founders](/assets/founders.jpg)
+![Original Building](/assets/oldstore.jpg)
 
 Russ and Bob Moore sold it to John Warner in August 1982. John and his
 wife, Shirley Warner ran the business until January 1989, at which time
@@ -27,6 +25,8 @@ Hollis bought it from Shirley, and operated the business along with his
 wife, Paula.  In June of 2014, Hollis and Paula's son John, along with
 his wife Ashley, moved up from Florida to begin working at the business
 as well.
+
+![Founders](/assets/founders.jpg)
 
 Whew, if you can follow that history, we give you a lot of credit! We
 are honored and privileged to be carrying on one of the oldest
