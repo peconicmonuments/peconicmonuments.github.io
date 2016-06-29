@@ -13,7 +13,7 @@ this experience as easy and encouraging as possible.
 
 ## <i class="fa fa-phone"></i> Phone: <a href="tel:{{ site.phone }}"> {{ site.phone }} </a>
 
-## <i class="fa fa-envelope-o"></i> Email: <a href="mailto:{{ site.email }}"> {{ site.email }} </a>
+## <i class="fa fa-envelope-o"></i> Email: <a target="_blank" href="mailto:{{ site.email }}?subject=Contact Form&body=Please send your name and phone number so we may easily get in touch with you."> {{ site.email }} </a>
 
 ## <i class="fa fa-facebook-official"></i> Facebook: <a target="_blank" href="https://www.facebook.com/Peconic-Monument-Works-222995197723808"> {{ site.name }} </a>
 
