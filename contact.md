@@ -15,7 +15,7 @@ this experience as easy and encouraging as possible.
 
 ## <i class="fa fa-envelope-o"></i> Email: <a target="_blank" href="mailto:{{ site.email }}?subject=Contact Form&body=Please send your name and phone number so we may easily get in touch with you."> {{ site.email }} </a>
 
-## <i class="fa fa-facebook-official"></i> Facebook: <a target="_blank" href="https://www.facebook.com/Peconic-Monument-Works-222995197723808"> {{ site.name }} </a>
+<!--## <i class="fa fa-facebook-official"></i> Facebook: <a target="_blank" href="https://www.facebook.com/Peconic-Monument-Works-222995197723808"> {{ site.name }} </a>-->
 
 ## <i class="fa fa-home"></i> Location: <a target="_blank" href="https://www.google.com/maps/dir//PECONIC+MONUMENT+WORKS,+129+Griffing+Ave,+Riverhead,+NY+11901/@40.9173785,-72.6664565,17z/data=!4m16!1m7!3m6!1s0x89e88ad5bde9e629:0x66d7303fd5e349d4!2sPECONIC+MONUMENT+WORKS!3b1!8m2!3d40.9173745!4d-72.6642678!4m7!1m0!1m5!1m1!1s0x89e88ad5bde9e629:0x66d7303fd5e349d4!2m2!1d-72.6642678!2d40.9173745"> Get Directions </a>
 
