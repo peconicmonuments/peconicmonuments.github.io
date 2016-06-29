@@ -5,7 +5,7 @@ main_nav: false
 ---
 
 
-## [Brookhaven Veterans Memorial](https://www.facebook.com/222995197723808/photos/pb.222995197723808.-2207520000.1461399818./961970557159598){:target="_blank"}
+## Brookhaven Veterans Memorial
 
 *5/25/15*
 
