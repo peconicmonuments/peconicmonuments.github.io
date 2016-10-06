@@ -7,7 +7,7 @@ description: From a marker to a mausoleum - your full service memorial shop
 baseurl: "" # the subpath of your site, e.g. /blog/
 ga_tracking_id: "UA-78983934-1" # Google analytics
 url: "http://peconicmonuments.github.io"
-cover: "/assets/header_image.jpg"
+cover: "/assets/shop.jpg"
 logo: "/assets/logo.png"
 phone: "631-727-4170"
 
@@ -25,6 +25,3 @@ protocols:
     fb_image_height: 605
     fb_image_type: "image/png"
     twitter_image: "/assets/logo.png"
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"

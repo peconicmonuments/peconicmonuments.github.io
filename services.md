@@ -11,12 +11,11 @@ title: Services
 
 ### [Memorial Cleanings](#cleaning-services) -- [Memorial Repairs](#memorial-repairs)
 
-At George Hill Moore Peconic Monument Works we take pride in offering
-our customers help through a possibly difficult and painful time of
-dealing with the loss of a loved one.  The Warners remain sensitive to
-the families' wishes and needs, and patiently work with the family to
-help guide them through the many decisions in choosing a cemetery
-monument.
+At Peconic Monument Works we take pride in offering our customers help through
+a possibly difficult and painful time of dealing with the loss of a loved one.
+The Warners remain sensitive to the families' wishes and needs, and patiently
+work with the family to help guide them through the many decisions in choosing
+a cemetery monument.
 
 Most people purchase a memorial once, or perhaps twice in a lifetime. Because
 such purchases are made infrequently, it is understandable difficult for a
@@ -26,13 +25,6 @@ Monument Works will enable you to make your selection with full confidence.
 Peconic Monument Works can help you choose a memorial that remembers and honors
 your loved one.  The price of the memorial depends upon the material used, its
 color, shape, size, design, lettering, and personalization.
-
-**Our service area:** Eastern Long Island, NY, Mattituck, Peconic, Southhold,
-Jamesport, Laurel, Hampton Bays, Sag Harbor, Quogue, Northwest Harbor,
-Riverside, Manorville, East Northport, Hauppauge, Brentwood, Rockypoint,
-Babylon, Islip, Bellport, Deer Park, Massapequa, Lindenhurst, Melville,
-Smithtown, Centereach, Kings Park, Hicksville, Levittown, Huntington, Commack
-and everywhere in between. Please see our [full cemetery list](/cemeteries).
 
 ## Memorials
 
@@ -75,32 +67,7 @@ A befitting bronze memorial made to honor Brookhaven veterans.
 
 ## Granite Vases
 
-Peconic Monument Works has an extensive range of Memorial vases,
-Memorial plaques, engraved plaques, pet plaques, Memorial headstones,
-gravestones and grave memorials suitable for all types of bereavement
-including child/children's, churchyards, cemeteries, personal and pets
-/animal memorial.
-
-When looking for cemetery flower vases, there are many styles, colors
-and designs available. First and foremost, you will want a cemetery
-flower holder that is durable and will withstand any type of weather
-condition. You want your loved one's headstone to look nice for honor
-and remembrance. Placing a strong vase will ensure that you will keep
-the grave site looking beautiful.
-
-Deciding on a container for someone who has died is difficult, but you
-want to show your continued love through the beauty of flowers. When
-choosing a vase you want to find the perfect one. Think about what your
-deceased loved one would like as well as what you think would look nice
-with the headstone.
-
-Granite/marble vases: Granite and marble cemetery vases will remain
-appearing new through the elements. These flower vases are usually
-built right into the headstone or can be added afterwards if there is
-enough room for them on the base or side of the headstone. They can
-come in light or dark stone colors or different colored marble to match
-the headstone.
-
+We offer flower vases in many materials, styles, and colors.
 
 
 ## Cleaning Services
@@ -179,16 +146,8 @@ Porcelain photos add another layer of personal touch to the memorial.
 
 ## Pet Memorials
 
-Having a memorial made for your pet can be a special way to commemorate
-their life and valued companionship. If you are interested in a
-monument for your pet, we would love to work with you to design a
-memorial that best depicts your vision and honors their memory.
-
-Below are some cemeteries in which we frequently do work. Please know
-we would welcome the chance to speak with you about a pet memorial
-wherever the final resting place for your pet may be.
-
-- Bideawee (Wantagh)
-- Bideawee (Westhampton)
-- Regency Forest (Middle Island)
+Having a memorial made for your pet can be a special way to commemorate their
+life and valued companionship. If you are interested in a monument for your
+pet, we would love to work with you to design a memorial that best depicts your
+vision and honors their memory.
 

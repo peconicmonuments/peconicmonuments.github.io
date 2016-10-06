@@ -6,11 +6,10 @@ main_nav: false
 
 If you would like to see what our customers say about us, read below! This page
 is dedicated to sharing the valued feedback of the families that choose to
-bless us with the opportunity to serve them.
+bless us with the opportunity to serve them. If you would like to add a
+testimonial and have your words featured on our website, please email us at:
 
-If you would like to add a testimonial, please email us at
-<a href="mailto:{{ site.email }}"> {{ site.email }} </a> to have your words
-featured on our website.
+## <a href="mailto:{{ site.email }}"> {{ site.email }} </a>
 
 <hr>
 

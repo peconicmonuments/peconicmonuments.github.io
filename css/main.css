@@ -197,8 +197,14 @@ h6 {
 font-size: 0.69444em; }
 
 p {
+text-align: justify;
 margin: 0 0 14.4px; }
 
+p.subtitle {
+text-align: center }
+
+article {
+text-align: justify; }
 a {
     color: #2980b9;
 text-decoration: none; }
