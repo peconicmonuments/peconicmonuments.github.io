@@ -4,9 +4,9 @@ title: Contact
 ---
 
 Please feel free to email or call us with any questions regarding our services.
-we are grateful to have the opportunity to serve the wonderful families who
+We are grateful to have the opportunity to serve the wonderful families who
 have graciously entrusted us with helping them create memorials for their loved
-ones. it is our pleasure to serve you, and we always hope to make this
+ones. It is our pleasure to serve you, and we always hope to make this
 experience as easy and encouraging as possible.
 
 *-- The Warners*
