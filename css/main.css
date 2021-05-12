@@ -161,7 +161,7 @@ body {
     font-feature-settings: "kern", "liga", "pnum";
     -webkit-font-smoothing: antialiased;
     color: #333;
-    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-family: 'Future PT' , "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
     font-size: 16px;
 line-height: 1.8; }
 
@@ -409,7 +409,7 @@ padding-right: 1em; } }
  *	Pages
  */ }
 .page-content .wrapper {
-    max-width: 48em;
+    max-width: 56em;
     margin-left: auto;
     margin-right: auto;
 padding: 2em; }
@@ -465,7 +465,8 @@ font-size: 1.2em; }
 .page-content img {
     display: block;
     margin: auto;
-width: 90%; }
+    margin-bottom: 2em;
+width: 1000%; }
 .page-content .post ul {
 margin-bottom: 1em; }
 .page-content .post .post-header-container .scrim {
@@ -608,7 +609,7 @@ margin-right: 0; } }
         float: left;
         display: block;
         margin-right: 2.35765%;
-    width: 31.76157%; }
+     }
     .site-footer .site-navigation:last-child {
 margin-right: 0; } }
 .site-footer .site-contact {
@@ -625,7 +626,6 @@ margin-right: 0; }
         float: left;
         display: block;
         margin-right: 2.35765%;
-        width: 48.82117%;
         margin-top: 0;
     margin-right: 0; }
     .site-footer .site-contact:last-child {
