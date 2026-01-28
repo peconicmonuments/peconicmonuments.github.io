@@ -34,7 +34,6 @@ iframe[src*="youtube"] {
 
 </style>
 
-
 <div class="home">
   <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
     <div class="scrim {% if site.cover %}has-cover{% endif %}">
@@ -46,7 +45,6 @@ iframe[src*="youtube"] {
   </div>
 
 </div>
-
 
 <script>
 // Wrap every letter in a span
@@ -100,12 +98,10 @@ At Peconic Monument  Works we design, create, and install meaningful and uniqu
 <iframe src="https://www.youtube-nocookie.com/embed/5iLuLfTzTBs?controls=0&rel=0" modestbranding frameborder="0" allowfullscreen></iframe>
 </div>
 
-
 <h2><a href="https://blog.rockofages.com/10-reasons-to-pre-plan-your-memorial" target="_blank">
 10 Reasons to Pre-plan Your Memorial
 <img src="/assets/preplan.jpg" />
 </a></h2>
-
 
   </div>
 </div>

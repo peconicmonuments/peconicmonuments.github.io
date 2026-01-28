@@ -15,7 +15,7 @@ cemetery personnel serve to encourage families that they are in the
 best of hands.
 
 John Warner, Hollis' son, has an incredible attention to detail and a
-commitment to quality that is second to none.  His excellent listening
+commitment to quality that is second to none. His excellent listening
 ear paired with his creative design abilities make it so that he is
 able to come alongside families and help bring their vision to life.
 When it comes to installing memorials and repairing damaged memorials,
@@ -37,4 +37,3 @@ members are spread throughout the United States or even the world, and
 it would be our pleasure to serve you through whichever mode of
 communication works best for you, without sacrificing our commitment to
 customer service.
-

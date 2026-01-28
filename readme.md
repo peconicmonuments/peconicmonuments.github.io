@@ -9,4 +9,3 @@ Running:
     bundle exec jekyll serve -w
 
 Then, go to `localhost:4000` in your web browser.
-

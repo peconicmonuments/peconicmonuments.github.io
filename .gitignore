@@ -12,3 +12,6 @@ Gemfile.lock
 .bundle/
 vendor/
 *swp
+
+# npm/yarn
+node_modules

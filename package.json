@@ -1,0 +1,19 @@
+{
+  "name": "peconicmonuments.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peconicmonuments/peconicmonuments.github.io",
+  "author": "Jeremy Warner <jeremywrnr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"**/*.{css,md}\"",
+    "format:css": "prettier --write \"css/**/*.css\"",
+    "format:md": "prettier --write \"*.md\"",
+    "format:check": "prettier --check \"**/*.{css,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "stylelint": "15",
+    "stylelint-config-standard": "34"
+  }
+}
