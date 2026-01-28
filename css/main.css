@@ -175,7 +175,7 @@ h6 {
     font-size: 16px;
     line-height: 1.8;
     margin: 0 0 16px;
-margin: 0 0 1rem; }
+margin: 1rem; }
 
 h1 {
 font-size: 2.0736em; }
@@ -315,7 +315,7 @@ padding: 9em 1em !important; } }
     float: right;
     margin: 0;
     font-size: 1.5em;
-padding-top: 0.2em; }
+    padding-top: 0; }
 @media screen and (min-width: 768px) {
     .navigation .navigation-menu-button {
 display: none; } }
@@ -332,6 +332,11 @@ display: table; }
     clear: both;
     content: "";
 display: table; }
+@media screen and (min-width: 768px) {
+    .navigation .navigation-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between; } }
 .navigation .logo {
     float: left;
 }
@@ -347,7 +352,8 @@ display: table; }
 }
 @media screen and (min-width: 768px) {
     .navigation .logo {
-padding-left: 16px; } }
+        padding-left: 16px;
+        margin: 0; } }
 .navigation .logo img {
     max-height: 2.5em;
     margin-top: 0.75em;
@@ -359,7 +365,8 @@ font-size: 1.25em; }
 padding: 1.25em 0; }
 @media screen and (min-width: 768px) {
     .navigation nav {
-        float: right;
+        margin: 0;
+        padding: 0;
 line-height: 1.5em; } }
 .navigation ul.navigation-menu {
     clear: both;
@@ -571,8 +578,8 @@ padding-bottom: 0.5em; }
  *	Site Description/Signature (right)
  */ }
 .site-footer .subtitle {
-    margin-top: -0.5em;
-    font-style: italic;
+    /* margin-top: -0.5em; */
+    font-style: bold;
 }
 .site-footer a {
 color: #fff; }

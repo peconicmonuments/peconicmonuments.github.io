@@ -14,7 +14,7 @@ uncles from his youth. George took over the business from his uncles. Later his
 two sons, Robert and Russell Moore, worked with their father, and eventually
 took over the business from their dad, George Moore.
 
-![Original Building](/assets/oldstore.jpg)
+![Original Building](/assets/shop_bright.jpg)
 
 Russ and Bob Moore sold it to John Warner in August 1982. John and his
 wife, Shirley Warner ran the business until January 1989, at which time
