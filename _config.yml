@@ -1,12 +1,12 @@
 # Site settings
 name: Peconic Monument Works
 title: Peconic Monument Works
-email: contact@peconicmonumentworks.com
+email: peconicmonuments@gmail.com
 subtitle: "From a marker to a mausoleum - your full service memorial shop"
 description: From a marker to a mausoleum - your full service memorial shop
 baseurl: "" # the subpath of your site, e.g. /blog/
 ga_tracking_id: "UA-78983934-1" # Google analytics
-url: "http://peconicmonuments.github.io"
+url: "https://www.peconicmonumentworks.com/"
 cover: "/assets/shop.png"
 logo: "/assets/logo.png"
 phone: "631-727-4170"
