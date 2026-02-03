@@ -5,10 +5,9 @@ email: peconicmonuments@gmail.com
 subtitle: "From a marker to a mausoleum - your full service memorial shop"
 description: From a marker to a mausoleum - your full service memorial shop
 baseurl: "" # the subpath of your site, e.g. /blog/
-ga_tracking_id: "UA-78983934-1" # Google analytics
 url: "https://www.peconicmonumentworks.com/"
-cover: "/assets/shop.png"
-logo: "/assets/logo.png"
+cover: "/assets/shop.jpg"
+logo: "/assets/logo.jpg"
 phone: "631-727-4170"
 
 # Build settings
@@ -16,7 +15,6 @@ permalink: pretty
 markdown: kramdown
 exclude: ["/vendor/"]
 inter_post_navigation: false
-highlightjs_theme: "monokai_sublime"
 
 # Social sharing protocols
 protocols:

@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "jekyll"
+gem "jekyll", "~> 4.3"
 gem "jekyll-archives"
 gem "jekyll-sitemap"
 gem 'yajl-ruby', require: 'yajl'
