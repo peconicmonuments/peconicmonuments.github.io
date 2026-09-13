@@ -10,6 +10,7 @@ help:
 setup:
     bundle install
     corepack yarn install
+    git config core.hooksPath .githooks
 
 # Start and open the server
 start:
