@@ -4,8 +4,14 @@ Markdown guide: https://guides.github.com/features/mastering-markdown/
 
 Hosted site: http://peconicmonuments.github.io/
 
+Setup (needs [just](https://github.com/casey/just), `brew install just`):
+
+    just setup
+
 Running:
 
-    bundle exec jekyll serve -w
+    just start
 
 Then, go to `localhost:4000` in your web browser.
+
+Run `just` to see all available commands.
