@@ -13,7 +13,14 @@ phone: "631-727-4170"
 # Build settings
 permalink: pretty
 markdown: kramdown
-exclude: ["/vendor/"]
+exclude:
+    - "/vendor/"
+    - ".githooks"
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "Justfile"
+    - "package.json"
+    - "yarn.lock"
 inter_post_navigation: false
 
 # Social sharing protocols
