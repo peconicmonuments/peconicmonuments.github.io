@@ -12,8 +12,6 @@
     "format:check": "prettier --check \"**/*.{css,md}\""
   },
   "devDependencies": {
-    "prettier": "^3.8.1",
-    "stylelint": "15",
-    "stylelint-config-standard": "34"
+    "prettier": "^3.9.6"
   }
 }

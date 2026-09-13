@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "rake"
 gem "jekyll", "~> 4.3"
-# 2.x uses sassc (libsass) rather than sass-embedded, which bundles an 11MB
-# Dart VM. This site compiles no Sass at all, so the engine is never invoked;
-# jekyll requires the converter regardless (jekyll.rb:195).
+# jekyll requires a sass converter (jekyll.rb:195) even though this site
+# compiles no Sass at all. 2.x resolves to sassc, which is ~7MB lighter than
+# 3.x's sass-embedded and ships no bundled language runtime.
 gem "jekyll-sass-converter", "~> 2.2"
 # liquid needs bigdecimal, which left ruby's default gems in 3.4. It used to
 # arrive transitively via sass-embedded -> google-protobuf; declare it rather
