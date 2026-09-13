@@ -2,7 +2,7 @@
 
 Markdown guide: https://guides.github.com/features/mastering-markdown/
 
-Hosted site: http://peconicmonuments.github.io/
+Hosted site: https://www.peconicmonumentworks.com/
 
 Setup (needs [just](https://github.com/casey/just), `brew install just`):
 
